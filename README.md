@@ -3,3 +3,5 @@
 
 --------------------------------------------------
 Repositório criado para durante a quinta aula de GIT e GitHub
+
+Essa linha eu adicionei diretamente no site do GITHUB.
