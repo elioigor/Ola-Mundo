@@ -1,7 +1,8 @@
 # Olá, Mundo!
- Primeiro repositório do curso de Git e GitHub
+## Primeiro repositório do curso de Git e GitHub
 
 --------------------------------------------------
-Repositório criado para durante a quinta aula de GIT e GitHub
+- Este repositório está com o site do curso de HTML5/CSS3 ministrado pelo professor [Gustavo Guanabara](https://github.com/gustavoguanabara).
+- Obrigado Professor!
 
-Essa linha eu adicionei diretamente no site do GITHUB.
+### Em breve estarei upando meus projetos.
